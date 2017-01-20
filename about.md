@@ -12,4 +12,4 @@ Also gay furry trash
 
 ### Contact me
 
-[chosensoundmusic147@gmail.com](mailto:hosensoundmusic147@gmail.com)
+[chosensoundmusic147@gmail.com](mailto:chosensoundmusic147@gmail.com)
