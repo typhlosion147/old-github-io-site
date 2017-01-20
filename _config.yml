@@ -86,3 +86,6 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-hacker
+
+url: https://gh.bakunet.me   # with the https protocol
+enforce_ssl: gh.bakunet.me   # without any protocol
