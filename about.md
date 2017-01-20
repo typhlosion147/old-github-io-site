@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just a noob to github who works with computers.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Also gay furry trash
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chosensoundmusic147@gmail.com](mailto:chosensoundmusic147@gmail.com)
