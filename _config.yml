@@ -87,5 +87,5 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 
